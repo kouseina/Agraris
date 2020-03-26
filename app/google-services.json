@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "144142725991",
+    "firebase_url": "https://agraris-b1006.firebaseio.com",
+    "project_id": "agraris-b1006",
+    "storage_bucket": "agraris-b1006.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144142725991:android:b370e7b467cf4e5bfcb5c2",
+        "android_client_info": {
+          "package_name": "com.example.agraris"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144142725991-p1r5jc178a9c0fnit5epgphkrvntslvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFpEEihQEShiDjswIkZ7yZUpvMphAglqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144142725991-p1r5jc178a9c0fnit5epgphkrvntslvp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

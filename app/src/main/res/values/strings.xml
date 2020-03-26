@@ -7,4 +7,5 @@
     <string name="sign_in">Sign In</string>
     <string name="not_registered_sign_up_here">Not registered? Sign up here</string>
     <string name="welcome_you_are_logged_in">Welcome you are logged in</string>
+    <string name="logout">Logout</string>
 </resources>

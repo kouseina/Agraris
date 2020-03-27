@@ -15,7 +15,9 @@
     <string name="email">Email</string>
     <string name="password">Password</string>
     <string name="sign_in">Sign in</string>
-    <string name="not_registered_sign_up_here">not_registered_sign_up_here</string>
+    <string name="not_registered_sign_up_here">Not registered? sign up here</string>
     <string name="sign_up">Sign up</string>
-    <string name="already_have_an_account_sign_in_here">already have an account sign in here</string>
+    <string name="already_have_an_account_sign_in_here">Already have an account? sign in here</string>
+    <string name="todo">TODO</string>
+    <string name="agraris">Agraris</string>
 </resources>

@@ -14,10 +14,16 @@
     <string name="logout">Logout</string>
     <string name="email">Email</string>
     <string name="password">Password</string>
+    <string name="isi_email">example@gmail.com</string>
+    <string name="isi_password">******</string>
     <string name="sign_in">Sign in</string>
     <string name="not_registered_sign_up_here">Not registered? sign up here</string>
     <string name="sign_up">Sign up</string>
     <string name="already_have_an_account_sign_in_here">Already have an account? sign in here</string>
     <string name="todo">TODO</string>
     <string name="agraris">Agraris</string>
+    <string name="agraris_huruf_kecil">agraris</string>
+    <string name="selamat_datang">Selamat Datang</string>
+    <string name="hai_ageer">Hai, Ageer!</string>
+    <string name="selamat_datang_kembali">Selamat Datang Kembali</string>
 </resources>

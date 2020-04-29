@@ -19,24 +19,23 @@ public class SliderItemFragment extends Fragment {
     // prepare all title ids arrays
     @StringRes
     private static final int[] PAGE_TITLES =
-            new int[] { R.string.discover, R.string.shop, R.string.offers, R.string.rewards };
+            new int[] { R.string.temukan_tanamanmu, R.string.menjadi_penjual, R.string.edukasi_menarik};
     // prepare all subtitle ids arrays
     @StringRes
     private static final int[] PAGE_TEXT =
             new int[] {
-                    R.string.discover_text, R.string.shop_text, R.string.offers_text, R.string.rewards_text
+                    R.string.temukan_tanamanmu_text, R.string.menjadi_penjual_text, R.string.edukasi_menarik_text
             };
     // prepare all subtitle images arrays
     @StringRes
     private static final int[] PAGE_IMAGE =
             new int[] {
-                    R.drawable.ic_discover, R.drawable.ic_deals, R.drawable.ic_offers, R.drawable.ic_reward
+                    R.drawable.temukan_tanamanmu, R.drawable.menjadi_penjual, R.drawable.edukasi_menarik
             };
     // prepare all background images arrays
     @StringRes
     private static final int[] BG_IMAGE = new int[] {
-            R.drawable.ic_bg_red, R.drawable.ic_bg_blue, R.drawable.ic_bg_green,
-            R.drawable.ic_bg_purple
+            R.drawable.ic_bg_white,R.drawable.ic_bg_white,R.drawable.ic_bg_white
     };
     private int position;
     public SliderItemFragment() {
